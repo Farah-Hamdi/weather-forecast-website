@@ -1,0 +1,6 @@
+[submodule "frontend-module"]
+	path = frontend-module
+	url = https://github.com/seifwalid/weatherForecast
+[submodule "backend-module"]
+	path = backend-module
+	url = https://github.com/Farah-Hamdi/weather-forecast
